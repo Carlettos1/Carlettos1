@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Carlettos1
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently studying physics in Andrés Bello university (Chile)
-- 💞️ I’m looking to collaborate on Anything :D
-- 📫 How to reach me ...
-
-<!---
-Carlettos1/Carlettos1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+no sé que hago con mi vida
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlettos1&count_private=true&show_icons=true&theme=tokyonight"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlettos1&theme=tokyonight&layout=compact&count_private=true"/>
+</div>
