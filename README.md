@@ -1,4 +1,4 @@
-Java programmer
+Java and Rust programmer
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlettos1&count_private=true&show_icons=true&theme=tokyonight"/>
 </div>
